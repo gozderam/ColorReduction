@@ -1,5 +1,5 @@
 # Color Reduction
-Image color reduction (color quantization) with three different algorithms: Error Diffusion Dithering, Popularity Algorithm, K-means Clustering. 
+Image color reduction (color quantization) with three different algorithms: Error Diffusion **Dithering**, **Popularity Algorithm**, **K-means Clustering**. 
 
 ## Algorithms
 With this app you can check and compare results of color quantization using three different algoritms.
