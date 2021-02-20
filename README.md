@@ -1,4 +1,4 @@
-# ColorReduction
+# Color Reduction
 Image color reduction (color quantization) with three different algorithms: Error Diffusion Dithering, Popularity Algorithm, K-means Clustering. 
 
 ## Algorithms
